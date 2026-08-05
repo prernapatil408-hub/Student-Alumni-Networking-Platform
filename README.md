@@ -1,4 +1,4 @@
-# Student-Alumni-Networking-Platform
+# AlmaMate
 
 About the Project
 
