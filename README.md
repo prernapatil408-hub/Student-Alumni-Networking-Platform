@@ -64,23 +64,6 @@ MySQL Server
 
 Local Setup
 
-Clone the repository:
-
-git clone https://github.com/yourusername/AlmaMate.git
-
-
-Database Setup:
-Run the schema.sql file located in the /database folder in your local MySQL instance.
-
-Backend Setup:
-
-cd backend
-pip install -r requirements.txt
-flask run
-
-
-Frontend Setup:
-Open the /android-app folder in Android Studio, sync Gradle, and run it on an emulator.
 
 🔒 Security Implementations
 
