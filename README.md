@@ -1,4 +1,4 @@
-# AlmaMate
+# UltimateMitr
 
 About the Project
 
